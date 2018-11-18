@@ -9,7 +9,8 @@ https://maven.google.com/com/android/support/gridlayout-v7/28.0.0/gridlayout-v7-
 - [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/28.0.0)
 
 **References:**
-
+- https://developer.android.com/topic/libraries/support-library/revisions#28-0-0
+- https://developer.android.com/topic/libraries/support-library/packages.html#v7-gridlayout
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
